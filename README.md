@@ -6,3 +6,6 @@ En este curso estoy siguiendo el tutorial de la web [freecodecamp.org](https://w
 En esta primera parte hemos explorado dos dataset y hemos visualizado datos. 
 
 Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)
+
+
+En la carpeta *jupyter_lab* hemos recordado el jupyter notebook, sus atajos. 
