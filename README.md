@@ -13,3 +13,11 @@ Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib
 En la carpeta *jupyter_lab* hemos recordado el jupyter notebook, sus atajos. 
 
 ### Numpy
+
+En la carpeta *intro-to-numpy* a un repaso de la librería numpy
+
+### Pandas
+
+#En la carpeta * intro-pandas* unos ejemplos del manejo de la librería pandas.
+
+### Cleaning
