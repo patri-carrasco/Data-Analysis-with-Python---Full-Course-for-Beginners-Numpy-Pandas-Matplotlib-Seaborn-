@@ -18,6 +18,10 @@ En la carpeta *intro-to-numpy* a un repaso de la librería numpy
 
 ### Pandas
 
-#En la carpeta * intro-pandas* unos ejemplos del manejo de la librería pandas.
+En la carpeta * intro-pandas* unos ejemplos del manejo de la librería pandas.
 
 ### Cleaning
+
+ En la carpeta *data-cleaning* hacemos un repaso de limpieza de dataset
+
+### Reading data
